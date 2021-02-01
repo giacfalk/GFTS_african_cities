@@ -73,7 +73,8 @@ CBIG<-max(CS$csize)
 ## Additiona Network measures
 ## helpful to understand the networks dynamic and topology
 #mean distance /average path length
-APL<-mean_distance(g, directed=T)
+#APL<-mean_distance(g, directed=T)
+APL<-average.path.length(g, directed=TRUE, unconnected=TRUE)
 
 #-----------------------------------------------
 #community structure
@@ -138,8 +139,8 @@ names(netTab)<-c('City',
 
 netTab<-netTab[, lapply(.SD, round, 4), City]
 
-library(huxtable)
-print_latex(huxtable(netTab))
+library(xtable)
+print(xtable(netTab, type = "latex"), file = "netTab.tex")
 
 
 
