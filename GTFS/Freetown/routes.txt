@@ -1,0 +1,104 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+route_0001,Freetown_poda_poda_01,"","Lumley to Regent Road",,1501,,0EC904,000000
+route_0002,Freetown_poda_poda_01,"","Congo Town to Goderich Street",,1501,,4CC904,000000
+route_0003,Freetown_SLRTC_03,"","Calaba Town Eastern Police",,700,,048AC9,000000
+route_0004,Freetown_poda_poda_01,"","Bombay to Waterloo",,1501,,04C98D,000000
+route_0005,Freetown_Taxi_Cab_04,"","Lumley to Aberdeen Village",,1501,,C90408,FFFFFF
+route_0006,Freetown_SLRTC_03,"","Regent Road to Braima Lane",,700,,9BC904,000000
+route_0007,Freetown_poda_poda_01,"","Annie Walsh Gate to Wellington",,1501,,04C971,000000
+route_0008,Freetown_Taxi_Cab_04,"","Model Junction to Up Church",,1501,,C90416,FFFFFF
+route_0009,Freetown_Taxi_Cab_04,"","Tree Planting to Model",,1501,,C95A04,000000
+route_0010,Freetown_poda_poda_01,"","Elk Street to Dworzark",,1501,,C404C9,FFFFFF
+route_0011,Freetown_poda_poda_01,"","Sackville Street  to Wellington",,1501,,C9042C,FFFFFF
+route_0012,Freetown_Taxi_Cab_04,"","Aberdeen to Aberdeen Road",,1501,,C95304,000000
+route_0013,Freetown_poda_poda_01,"","Congo Cross to Wilberforce",,1501,,C90459,FFFFFF
+route_0014,Freetown_poda_poda_01,"","Eastern Police  to Kingtom",,1501,,56C904,000000
+route_0015,Freetown_poda_poda_01,"","Kingtom Park to Goderich Street",,1501,,C90474,FFFFFF
+route_0016,Freetown_SLRTC_03,"","Eastern Police to Calaba Town",,700,,C9047F,FFFFFF
+route_0017,Freetown_poda_poda_01,"","Lumley to Kamayama",,1501,,C9C704,000000
+route_0018,Freetown_poda_poda_01,"","Bus Station to Regent",,1501,,A604C9,FFFFFF
+route_0019,Freetown_poda_poda_01,"","Calabatown to Annie Walsh Gate",,1501,,7504C9,FFFFFF
+route_0020,Freetown_poda_poda_01,"","Barracks Old Road to Annie Walsh Gate",,1501,,AAC904,000000
+route_0021,Freetown_poda_poda_01,"","Sackville Street to Wellington",,1501,,04C92D,000000
+route_0022,Freetown_poda_poda_01,"","Regent to Bus Station",,1501,,0490C9,000000
+route_0023,Freetown_poda_poda_01,"","Waterloo to Bombay",,1501,,C90427,FFFFFF
+route_0024,Freetown_Taxi_Cab_04,"","Wilberforce to Lumley",,1501,,C90471,FFFFFF
+route_0025,Freetown_poda_poda_01,"","Regent Road to Aberdeen",,1501,,04BBC9,000000
+route_0026,Freetown_poda_poda_01,"","Lumley to Baw Baw",,1501,,C904A4,FFFFFF
+route_0027,Freetown_poda_poda_01,"","Patton Street to Waterloo",,1501,,C90491,FFFFFF
+route_0028,Freetown_SLRTC_03,"","Calaba Town  to Regent Street",,700,,C9043E,FFFFFF
+route_0029,Freetown_SLRTC_03,"","Regent Street to Calaba Town",,700,,C90404,FFFFFF
+route_0030,Freetown_poda_poda_01,"","Baw Baw to Lumley",,1501,,C95D04,000000
+route_0031,Freetown_poda_poda_01,"","Lumley to Jui",,1501,,2604C9,FFFFFF
+route_0033,Freetown_poda_poda_01,"","Murray Town to Goderich Street",,1501,,C9BD04,000000
+route_0034,Freetown_Taxi_Cab_04,"","Ogoo Farm to Lumley",,1501,,04C960,000000
+route_0035,Freetown_poda_poda_01,"","Eastern Police to Wellington",,1501,,7F04C9,FFFFFF
+route_0036,Freetown_Taxi_Cab_04,"","Leicester to Model",,1501,,C90426,FFFFFF
+route_0037,Freetown_poda_poda_01,"","Guard Street to Barracks",,1501,,04C97B,000000
+route_0038,Freetown_SLRTC_03,"","Annie Walsh Gate to Calaba Town",,700,,09C904,000000
+route_0039,Freetown_poda_poda_01,"","Calabatown to Sackville Street",,1501,,AAC904,000000
+route_0040,Freetown_poda_poda_01,"","Guard Street to Wellington",,1501,,49C904,000000
+route_0041,Freetown_Taxi_Cab_04,"","Gloucester to Model",,1501,,C90437,FFFFFF
+route_0042,Freetown_Taxi_Cab_04,"","FBC to Model",,1501,,C904C4,FFFFFF
+route_0043,Freetown_poda_poda_01,"","Braima Lane to Eastern Police",,1501,,04AEC9,000000
+route_0044,Freetown_poda_poda_01,"","Bus Station to Hill Station",,1501,,A004C9,FFFFFF
+route_0045,Freetown_Taxi_Cab_04,"","Congo Cross to Hill Station",,1501,,C93A04,FFFFFF
+route_0046,Freetown_Tagrin_Ferry_01,"","Kissy Ferry Terminal to Tagrin Ferry Terminal",,1200,,1704C9,FFFFFF
+route_0047,Freetown_Taxi_Cab_04,"","Congo Cross to Jui",,1501,,04C968,000000
+route_0048,Freetown_poda_poda_01,"","Regent Road to Lumley",,1501,,048FC9,000000
+route_0049,Freetown_poda_poda_01,"","Jui to Willberforce",,1501,,8904C9,FFFFFF
+route_0050,Freetown_poda_poda_01,"","Wilberforce to Charlotte Street",,1501,,C90428,FFFFFF
+route_0051,Freetown_Taxi_Cab_04,"","Hill Station to Wilberforce to Congo Cross",,1501,,C90440,FFFFFF
+route_0052,Freetown_SLRTC_03,"","Regent Road to Barracks",,700,,77C904,000000
+route_0053,Freetown_Taxi_Cab_04,"","Regent to Jui",,1501,,C9A104,000000
+route_0054,Freetown_Taxi_Cab_04,"","UP Church to Model Junction",,1501,,C90430,FFFFFF
+route_0055,Freetown_poda_poda_01,"","Goderich Street to New England",,1501,,A0C904,000000
+route_0056,Freetown_SLRTC_03,"","Regent Street to Wellington",,700,,AAC904,000000
+route_0057,Freetown_poda_poda_01,"","Hill Station to Bus Station",,1501,,9404C9,FFFFFF
+route_0058,Freetown_Taxi_Cab_04,"","Jui to Wilberforce to Congo Cross",,1501,,04C981,000000
+route_0059,Freetown_Taxi_Cab_04,"","Model to FBC Mount Aureol",,1501,,04C906,000000
+route_0060,Freetown_poda_poda_01,"","Model to Leicester",,1501,,8004C9,FFFFFF
+route_0061,Freetown_poda_poda_01,"","Barracks to Regent Road",,1501,,C90480,FFFFFF
+route_0062,Freetown_poda_poda_01,"","Eastern Police to Braima Lane",,1501,,8104C9,FFFFFF
+route_0063,Freetown_poda_poda_01,"","Wellington to Eastern Police",,1501,,C92204,FFFFFF
+route_0064,Freetown_poda_poda_01,"","Braima Lane to Sackville Street",,1501,,1904C9,FFFFFF
+route_0065,Freetown_poda_poda_01,"","Elk Street to Red Pump",,1501,,04AEC9,000000
+route_0066,Freetown_poda_poda_01,"","New England to Goderich Street",,1501,,C9040D,FFFFFF
+route_0067,Freetown_poda_poda_01,"","Kamayama to Lumley",,1501,,0438C9,FFFFFF
+route_0068,Freetown_poda_poda_01,"","Bombay to Grafton",,1501,,8804C9,FFFFFF
+route_0069,Freetown_poda_poda_01,"","Barracks to Sackville Street",,1501,,C95304,000000
+route_0070,Freetown_poda_poda_01,"","Goderich Street to Kingtom Park",,1501,,51C904,000000
+route_0071,Freetown_poda_poda_01,"","Wellington to Sackville Street",,1501,,0471C9,FFFFFF
+route_0072,Freetown_Taxi_Cab_04,"","Aberdeen Road to Aberdeen",,1501,,C90452,FFFFFF
+route_0073,Freetown_poda_poda_01,"","Barracks Old Road to Sackville Street",,1501,,049FC9,000000
+route_0074,Freetown_SLRTC_03,"","Annie Walsh Gate to Barracks Old Road",,700,,C9BD04,000000
+route_0075,Freetown_poda_poda_01,"","Elk Street to Tengbeh Town",,1501,,39C904,000000
+route_0076,Freetown_Taxi_Cab_04,"","Jui to Lumley",,1501,,0466C9,FFFFFF
+route_0077,Freetown_poda_poda_01,"","Dworzark to Elk Street",,1501,,7AC904,000000
+route_0078,Freetown_poda_poda_01,"","Braima Lane to Regent Road",,1501,,C0C904,000000
+route_0079,Freetown_poda_poda_01,"","Wilberforce to Jui",,1501,,C90416,FFFFFF
+route_0080,Freetown_poda_poda_01,"","Barracks Old Road to Eastern Police",,1501,,044AC9,FFFFFF
+route_0081,Freetown_Taxi_Cab_04,"","Wilberforce to Congo Cross",,1501,,17C904,000000
+route_0082,Freetown_poda_poda_01,"","Sackville Street to Barracks Old Road",,1501,,32C904,000000
+route_0083,Freetown_SLRTC_03,"","Wellington to Regent Street",,700,,04A2C9,000000
+route_0084,Freetown_poda_poda_01,"","Patton Street to Grafton",,1501,,C93804,FFFFFF
+route_0085,Freetown_poda_poda_01,"","Barracks to Guard Street",,1501,,C9C504,000000
+route_0086,Freetown_poda_poda_01,"","Sackville Street to Calabatown",,1501,,C91F04,FFFFFF
+route_0087,Freetown_poda_poda_01,"","Lumley to Wilberforce",,1501,,C95704,000000
+route_0088,Freetown_Taxi_Cab_04,"","Model to Gluocester",,1501,,A0C904,000000
+route_0089,Freetown_poda_poda_01,"","Lumley to Ogoo Farm",,1501,,04C91E,000000
+route_0090,Freetown_poda_poda_01,"","Goderich St to Congo Town",,1501,,2AC904,000000
+route_0091,Freetown_Taxi_Cab_04,"","Aberdeen Village to Lumley",,1501,,C90458,FFFFFF
+route_0092,Freetown_poda_poda_01,"","Sackville Street to Braima Lane",,1501,,04C920,000000
+route_0093,Freetown_poda_poda_01,"","Grafton to Patton Street",,1501,,2204C9,FFFFFF
+route_0094,Freetown_poda_poda_01,"","Eastern Police to Barracks",,1501,,04C9C5,000000
+route_0095,Freetown_poda_poda_01,"","Aberdeen to Regent Road",,1501,,0444C9,FFFFFF
+route_0096,Freetown_poda_poda_01,"","Tengbeh Town to Elk Street",,1501,,C9040D,FFFFFF
+route_0097,Freetown_poda_poda_01,"","Jui to Regent",,1501,,3A04C9,FFFFFF
+route_0098,Freetown_Tagrin_Ferry_01,"","Tagrin Ferry Terminal to Kissy Ferry Terminal",,1200,,04C90A,000000
+route_0099,Freetown_poda_poda_01,"","Waterloo Tombo Park to Patton Street",,1501,,0471C9,FFFFFF
+route_0100,Freetown_poda_poda_01,"","Charlotte Street to Wilberforce",,1501,,58C904,000000
+route_0101,Freetown_poda_poda_01,"","Grafton to Bombay",,1501,,04C98D,000000
+route_0102,Freetown_Taxi_Cab_04,"","Model to Tree Planting",,1501,,04C95F,000000
+route_0103,Freetown_poda_poda_01,"","Kingtom to Eastern Police",,1501,,3104C9,FFFFFF
+route_0110,Freetown_poda_poda_01,"","Goderich Street to Murray Town",,1501,,008000,

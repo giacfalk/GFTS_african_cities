@@ -1,0 +1,2 @@
+end_date,friday,monday,saturday,service_id,start_date,sunday,thursday,tuesday,wednesday
+20200929,1,1,1,Ground_Daily,20191010,1,1,1,1

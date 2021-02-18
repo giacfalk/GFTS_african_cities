@@ -1,0 +1,3 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+taxi,14-Seater Paratransit Taxi,http://transportforcairo.com/,Africa/Nairobi,en,,
+bus,Buses oprated by Pioneer or Awakula Enumme,http://transportforcairo.com/,Africa/Nairobi,en,,

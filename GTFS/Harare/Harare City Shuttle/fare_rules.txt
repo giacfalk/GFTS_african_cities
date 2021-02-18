@@ -1,0 +1,6 @@
+fare_id,route_id,origin_id,destination_id,contains_id
+fare_0180,route_0180,,,
+fare_0250,route_0250,,,
+fare_0346,route_0346,,,
+fare_0433,route_0433,,,
+fare_0483,route_0483,,,

@@ -1,0 +1,487 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+route_0001,harare_minibus_01,"","Kilwinning Road to Charge Office",,1501,,4A04C9,000000
+route_0002,harare_minibus_01,"","Dzivarasekwa Hub to Glenview 3 Shops",,1501,,C99D04,000000
+route_0003,harare_minibus_01,"","Mbare Rank to Stoneridge Park",,1501,,6504C9,000000
+route_0004,harare_minibus_01,"","Makoni to Machipisa",,1501,,98C904,000000
+route_0005,harare_minibus_01,"","Makoni to Mapuranga Hub",,1501,,C90486,000000
+route_0006,harare_minibus_01,"","Fourth Street Rank to Epworth, Dombo Stop Over",,1501,,C904B3,000000
+route_0007,harare_minibus_01,"","Charge Office to Seke Chirunga",,1501,,4704C9,000000
+route_0008,harare_minibus_01,"","Fourth Street Rank to Pomona",,1501,,65C904,000000
+route_0009,harare_minibus_01,"","Parklane Hub to Nyabira",,1501,,C90417,000000
+route_0010,harare_minibus_01,"","Mbudzi Round About to Southlands",,1501,,5304C9,000000
+route_0011,harare_minibus_01,"","Mbare Hub Rank to Copacabana",,1501,,04C960,000000
+route_0012,harare_minibus_01,"","Jacha to Rezende Street South Hub 2",,1501,,C99604,000000
+route_0013,harare_minibus_01,"","Copacabana Rank to Gomo Southerton",,1501,,C904BD,000000
+route_0014,harare_minibus_01,"","Mapuranga Hub to Mufakose",,1501,,C93304,000000
+route_0015,harare_minibus_01,"","Market Square to Budiriro 2",,1501,,04C92C,000000
+route_0016,harare_minibus_01,"","Manresa to Fourth Street Rank",,1501,,04C929,000000
+route_0017,harare_minibus_01,"","Epworth Munyuki to 4th Street Rank",,1501,,0B04C9,000000
+route_0018,harare_minibus_01,"","Mbare Musika to Tatenda Shopping CentreWarren Park",,1501,,C904C4,000000
+route_0019,harare_minibus_01,"","Fourth Street Rank to Zimre Park",,1501,,2F04C9,000000
+route_0020,harare_minibus_01,"","Fourth Street Rank to Damofalls Phase 5",,1501,,C90494,000000
+route_0021,harare_minibus_01,"","Copacabana Rank to Westgate",,1501,,C90456,000000
+route_0022,harare_minibus_01,"","Mapuranga Hub to Glenview 3",,1501,,C94804,000000
+route_0023,harare_minibus_01,"","Market Square to Ushewekunze",,1501,,C2C904,000000
+route_0024,harare_minibus_01,"","Sisonke Shopping Centre Kambuzuma to Copacabana Rank",,1501,,C9042A,000000
+route_0025,harare_minibus_01,"","Domboshava to Market Square",,1501,,6AC904,000000
+route_0026,harare_minibus_01,"","Mbudzi Round About to Market Square",,1501,,C9044E,000000
+route_0027,harare_minibus_01,"","Warren Park D to Nelson Mandela and Chinhoyi Rd Hub",,1501,,04C99D,000000
+route_0028,harare_minibus_01,"","Charge Office to Zengeza 5 Pagomba",,1501,,C904C1,000000
+route_0029,harare_minibus_01,"","Rydale Ridge to Mbuyanehanda and Chinoyi Rd Hub",,1501,,B704C9,000000
+route_0030,harare_minibus_01,"","Ushewekunze to Market Square",,1501,,04C91D,000000
+route_0031,harare_minibus_01,"","Challote Brook to 4th Street Rank",,1501,,9D04C9,000000
+route_0032,harare_minibus_01,"","Southlea Park to Simon Mazorodze Flyover",,1501,,0442C9,000000
+route_0033,harare_minibus_01,"","Waterfalls to Market Square",,1501,,04C96E,000000
+route_0034,harare_minibus_01,"","Mbare Rank to Norton",,1501,,0EC904,000000
+route_0035,harare_minibus_01,"","Parklane Hub to Westgate",,1501,,0414C9,000000
+route_0036,harare_minibus_01,"","Mbuya Nehanda Street to Bloomingdale",,1501,,04C913,000000
+route_0037,harare_minibus_01,"","Rezende Rank to Belgravia",,1501,,C99904,000000
+route_0038,harare_minibus_01,"","Damofalls Phase 5 to Fourth Street Rank",,1501,,C904A1,000000
+route_0039,harare_minibus_01,"","Hatcliffe Hub to Fourth Street Rank",,1501,,C90419,000000
+route_0040,harare_minibus_01,"","Dzivarasekwa to Westgate",,1501,,04C97C,000000
+route_0041,harare_minibus_01,"","GoodHope to Parklane Hub",,1501,,0442C9,000000
+route_0042,harare_minibus_01,"","George Ruwa Hub to Ariel Bus Stop",,1501,,2C04C9,000000
+route_0043,harare_minibus_01,"","St Marys to Mapuranga Hub",,1501,,04C94D,000000
+route_0044,harare_minibus_01,"","Fourth Street Rank to Hatcliffe",,1501,,04BBC9,000000
+route_0045,harare_minibus_01,"","Market Square to Glen Norah B",,1501,,B1C904,000000
+route_0046,harare_minibus_01,"","Hatcliff to Copacabana Rank",,1501,,9604C9,000000
+route_0047,harare_minibus_01,"","Fourth Street Rank to Philadelphia",,1501,,79C904,000000
+route_0048,harare_minibus_01,"","Jason Moyo and Mbuya Nehanda to Bloomingdale",,1501,,04C97F,000000
+route_0049,harare_minibus_01,"","Chikwanha to Mbare",,1501,,B804C9,000000
+route_0050,harare_minibus_01,"","Chishawasha Hills Hub to Fourth Street Rank",,1501,,24C904,000000
+route_0051,harare_minibus_01,"","Fourth Street Rank to Damofalls Phase 3 and 4 Rank",,1501,,0468C9,000000
+route_0052,harare_minibus_01,"","Mbare Rank to Machipisa",,1501,,04C4C9,000000
+route_0053,harare_minibus_01,"","Dzivarasekwa 4 Hub to Copacabana Rank",,1501,,04C919,000000
+route_0054,harare_minibus_01,"","Parirenyatwa to Leopold Takawira Hub",,1501,,04C90B,000000
+route_0055,harare_minibus_01,"","Ruwa Pachuru Hub to Chibamu",,1501,,C91404,000000
+route_0056,harare_minibus_01,"","Oroman Hub Mbare to Bax Hub Chitungwiza",,1501,,0465C9,000000
+route_0057,harare_minibus_01,"","Kamfinsa to Copacabana Rank",,1501,,C9049D,000000
+route_0058,harare_minibus_01,"","Forth Street Rank to Eastlea Hub",,1501,,C9044D,000000
+route_0059,harare_minibus_01,"","Charge Office to Chitungwiza Makoni",,1501,,6FC904,000000
+route_0060,harare_minibus_01,"","Inez Terrace to Msasa",,1501,,C95704,000000
+route_0061,harare_minibus_01,"","Mbuya Nehanda Hub to Kuwadzana 7",,1501,,86C904,000000
+route_0062,harare_minibus_01,"","Copacabana Rank to Goodhope",,1501,,A304C9,000000
+route_0063,harare_minibus_01,"","Msasa to Fourth Street Rank",,1501,,0445C9,000000
+route_0064,harare_minibus_01,"","Simon Mazorodze Flyover to Southlea Park",,1501,,9104C9,000000
+route_0065,harare_minibus_01,"","Copacabana Rank to Westlea",,1501,,1FC904,000000
+route_0066,harare_minibus_01,"","Makoni to Dema",,1501,,C9045B,000000
+route_0067,harare_minibus_01,"","Vainona to Fourth Street Rank",,1501,,C9B404,000000
+route_0068,harare_minibus_01,"","Mbare Hub to Copacabana Rank",,1501,,C96F04,000000
+route_0069,harare_minibus_01,"","Prospect to Copacabana Rank",,1501,,04C95B,000000
+route_0070,harare_minibus_01,"","Queensdale Shops to Fourth Street Rank",,1501,,26C904,000000
+route_0071,harare_minibus_01,"","Glenorah to Mbare Rank",,1501,,04C7C9,000000
+route_0072,harare_minibus_01,"","Simon Mazorodze Flyover to Budiriro",,1501,,5F04C9,000000
+route_0073,harare_minibus_01,"","Mbare Zata to Copacabana Rank",,1501,,040CC9,000000
+route_0074,harare_minibus_01,"","Market Square to Southlands",,1501,,1DC904,000000
+route_0075,harare_minibus_01,"","Parklane Hub to Mount Hampden",,1501,,04A8C9,000000
+route_0076,harare_minibus_01,"","Machipisa to Market Square",,1501,,04C9BF,000000
+route_0077,harare_minibus_01,"","Hillside to 4th Street Rank",,1501,,C94B04,000000
+route_0078,harare_minibus_01,"","Fourth Street Rank to Grey Stone Hub",,1501,,C98D04,000000
+route_0079,harare_minibus_01,"","Mapuranga to Simon Mazorodze Flyover",,1501,,04C96B,000000
+route_0080,harare_minibus_01,"","Mbuya Nehanda to Westlea",,1501,,C904A6,000000
+route_0081,harare_minibus_01,"","Glenview 3 Shopping Centre to Dzivarasekwa 3 Hub",,1501,,C92804,000000
+route_0082,harare_minibus_01,"","Copacabana to Warren Park 2",,1501,,BFC904,000000
+route_0083,harare_minibus_01,"","Rezende Street South Hub 2 to Jacha",,1501,,3A04C9,000000
+route_0084,harare_minibus_01,"","Makoni to Machipisa Nekunze",,1501,,C9047C,000000
+route_0085,harare_minibus_01,"","Glenorah to Rezende Street South Hub",,1501,,04B0C9,000000
+route_0086,harare_minibus_01,"","Glen Norah B to Copacabana Rank",,1501,,B2C904,000000
+route_0087,harare_minibus_01,"","Chitungwiza, Mharapara Road to Chitungwiza Town Centre",,1501,,C95604,000000
+route_0088,harare_minibus_01,"","Mufakose to Copabana Rank",,1501,,04C9AE,000000
+route_0089,harare_minibus_01,"","Westgate to Dzivarasekwa",,1501,,0E04C9,000000
+route_0090,harare_minibus_01,"","Machipisa to Southlands",,1501,,1FC904,000000
+route_0091,harare_minibus_01,"","Machipisa Highfield to Southley Park, Seventh Day Adventist",,1501,,5B04C9,000000
+route_0092,harare_minibus_01,"","Newlands to Copacabana Rank",,1501,,3604C9,000000
+route_0093,harare_minibus_01,"","Copacabana Rank to Kwadzana Extension",,1501,,5204C9,000000
+route_0094,harare_minibus_01,"","Mount Hampden to Parklane Hub",,1501,,C91004,000000
+route_0095,harare_minibus_01,"","Fourth Street Rank to Manresa",,1501,,C904B3,000000
+route_0096,harare_minibus_01,"","Dzivarasekwa Extension to Nelson Mandela",,1501,,0430C9,000000
+route_0097,harare_minibus_01,"","Fourth Street Rank to Queensdale Shops",,1501,,C90C04,000000
+route_0098,harare_minibus_01,"","Chimbarembare to Charge Office",,1501,,C93A04,000000
+route_0099,harare_minibus_01,"","Charge Office to Waterfalls Mainway Meadows",,1501,,04C9BC,000000
+route_0100,harare_minibus_01,"","Simon Mazorodze to Glen Norah",,1501,,6404C9,000000
+route_0101,harare_minibus_01,"","Domboshava to Nelson Mandela Chinoyi Road Hub",,1501,,9104C9,000000
+route_0102,harare_minibus_01,"","Mbuya Nehanda to Ashdown Park",,1501,,A3C904,000000
+route_0103,harare_minibus_01,"","Copacabana Rank to Westgate Red Roof",,1501,,04C907,000000
+route_0104,harare_minibus_01,"","Market Square to Southerton",,1501,,C91604,000000
+route_0105,harare_minibus_01,"","Mt Pleasant Heights Bus Stop to Copacabana Rank",,1501,,6204C9,000000
+route_0106,harare_minibus_01,"","Riverton to Fourth Street Rank",,1501,,04C90F,000000
+route_0107,harare_minibus_01,"","Makoni to St Mary's",,1501,,1BC904,000000
+route_0108,harare_minibus_01,"","Machipisa to Westgate Roundabout",,1501,,C004C9,000000
+route_0109,harare_minibus_01,"","Dzivarasekwa 3 Hub to Machipisa",,1501,,0491C9,000000
+route_0110,harare_minibus_01,"","Copacabana Rank to Mt Pleasant Heights",,1501,,04C94E,000000
+route_0111,harare_minibus_01,"","Rezende Street South Hub to Glenorah",,1501,,A904C9,000000
+route_0112,harare_minibus_01,"","Fourth Street Rank to Vainona",,1501,,040AC9,000000
+route_0113,harare_minibus_01,"","Pomona to Fourth Street Rank",,1501,,04B1C9,000000
+route_0114,harare_minibus_01,"","Southlea Park to Mbudzi Round About",,1501,,A3C904,000000
+route_0115,harare_minibus_01,"","Budiriro 2 ZRP to Market Square",,1501,,7C04C9,000000
+route_0116,harare_minibus_01,"","Fourth Street Rank to Damofalls Phase 1 and 2 Pamusasa Bus Stop",,1501,,C1C904,000000
+route_0117,harare_minibus_01,"","Fourth Street Rank to Msasa Park",,1501,,65C904,000000
+route_0118,harare_minibus_01,"","Flyover to Makoni Rank",,1501,,6104C9,000000
+route_0119,harare_minibus_01,"","Ruwa to Fourth Street Rank",,1501,,04C989,000000
+route_0120,harare_minibus_01,"","Westgate to Jason Moyo Cnr Mbuya Nehanda",,1501,,04C91A,000000
+route_0121,harare_minibus_01,"","Mbuya Nehanda Hub to Kuwadzana Phase 3",,1501,,04C997,000000
+route_0122,harare_minibus_01,"","Dema to Makoni",,1501,,C9B804,000000
+route_0123,harare_minibus_01,"","Southlea Park to Market Square",,1501,,31C904,000000
+route_0124,harare_minibus_01,"","Rezende Rank to Glen Norah Wedza Hub",,1501,,C91A04,000000
+route_0125,harare_minibus_01,"","Samora Machel Avenue and Chinhoyi Rd Hub to Rydale Ridge",,1501,,04C9C5,000000
+route_0126,harare_minibus_01,"","Norton to Copacabana Rank",,1501,,C94E04,000000
+route_0127,harare_minibus_01,"","Westgate to Parklane Hub",,1501,,42C904,000000
+route_0128,harare_minibus_01,"","Budiriro 4 to Market Square",,1501,,0429C9,000000
+route_0129,harare_minibus_01,"","Sally Mugabe to Fourth Street Rank",,1501,,C90437,000000
+route_0130,harare_minibus_01,"","Waterfalls Mainway Meadows to Mbare Rank",,1501,,C90474,000000
+route_0131,harare_minibus_01,"","Makoni to Ziko",,1501,,045BC9,000000
+route_0132,harare_minibus_01,"","Ziko to Charge office",,1501,,04C3C9,000000
+route_0133,harare_minibus_01,"","Inez Terrace to Ruwa",,1501,,C90425,000000
+route_0134,harare_minibus_01,"","Fourth Street to Damofalls Phase 1 and 2 Pamusasa Rank",,1501,,A0C904,000000
+route_0135,harare_minibus_01,"","Zimre Park to Fourth Street Rank",,1501,,C904B2,000000
+route_0136,harare_minibus_01,"","Greendale to Fourth Street Rank",,1501,,C91604,000000
+route_0137,harare_minibus_01,"","Machipisa Nekunze to Makoni Hub",,1501,,04C9C6,000000
+route_0138,harare_minibus_01,"","St Marys to Makoni Hub",,1501,,0426C9,000000
+route_0139,harare_minibus_01,"","Market Square to Budiriro 4 & 5",,1501,,0406C9,000000
+route_0140,harare_minibus_01,"","Westgate to Warren Park",,1501,,5F04C9,000000
+route_0141,harare_minibus_01,"","Machipisa Hub to Copacabana Rank",,1501,,5F04C9,000000
+route_0142,harare_minibus_01,"","Town Center to Charge Office",,1501,,5B04C9,000000
+route_0143,harare_minibus_01,"","Hatfield Twentydales to Charge Office",,1501,,C90404,000000
+route_0144,harare_minibus_01,"","Fourth Street Rank to Kamfinsa",,1501,,2904C9,000000
+route_0145,harare_minibus_01,"","Machipisa to Kuwadzana 4 Shops Hub",,1501,,4604C9,000000
+route_0146,harare_minibus_01,"","Copacabana Rank to Newlands",,1501,,50C904,000000
+route_0147,harare_minibus_01,"","Belgravia to Rezende Rank",,1501,,04C982,000000
+route_0148,harare_minibus_01,"","Kuwadzana 4 Shops Hub to Mbare Rank",,1501,,C9041A,000000
+route_0149,harare_minibus_01,"","Warren Park 1 to Mbuya Nehanda",,1501,,C90412,000000
+route_0150,harare_minibus_01,"","Damofalls Phase 1 and 2 Pamusasa Bus Stop to Fourth Street Rank",,1501,,0433C9,000000
+route_0151,harare_minibus_01,"","Ariel Bus Stop to George Hub",,1501,,C904BA,000000
+route_0152,harare_minibus_01,"","Mbare Rank to Kuwadzana",,1501,,C90496,000000
+route_0153,harare_minibus_01,"","Chikwanha to Makoni",,1501,,7A04C9,000000
+route_0154,harare_minibus_01,"","Rhodesville to Fourth Street Rank",,1501,,04C98C,000000
+route_0155,harare_minibus_01,"","Market Square to Domboshava",,1501,,C90E04,000000
+route_0156,harare_minibus_01,"","Glenlorne to Fourth Street Rank",,1501,,C90496,000000
+route_0157,harare_minibus_01,"","Southlands to Machipisa",,1501,,04C972,000000
+route_0158,harare_minibus_01,"","Simon Mazorodze Flyover to Rezende Hub 2",,1501,,04C9C7,000000
+route_0159,harare_minibus_01,"","Charge Office to Ziko",,1501,,15C904,000000
+route_0160,harare_minibus_01,"","Gomo Southerton to Copacabana Rank",,1501,,C98F04,000000
+route_0161,harare_minibus_01,"","Town Centre to Chitungwiza Hospital Hub",,1501,,04C923,000000
+route_0162,harare_minibus_01,"","Goodhope to Copacabana Rank",,1501,,58C904,000000
+route_0163,harare_minibus_01,"","Total Chinhoyi Street to Mufakose",,1501,,C9BC04,000000
+route_0164,harare_minibus_01,"","Mutangadura to Ruwa Pachuru Hub",,1501,,C904B6,000000
+route_0165,harare_minibus_01,"","Nelson Mandela to Dzivarasekwa Extension",,1501,,35C904,000000
+route_0166,harare_minibus_01,"","Warren Park 2 to Copacabana Rank",,1501,,C9043D,000000
+route_0167,harare_minibus_01,"","Fourth Street Rank to Domboshava",,1501,,C904B1,000000
+route_0168,harare_minibus_01,"","Damafalls to Mabvuku Hub",,1501,,0462C9,000000
+route_0169,harare_minibus_01,"","Inez Terrace Hub to Mabvuku Pakamunhu Hub",,1501,,C90474,000000
+route_0170,harare_minibus_01,"","Southlea Park to Mbare Rank",,1501,,04C906,000000
+route_0171,harare_minibus_01,"","Fourth Street Rank to Msasa",,1501,,C96604,000000
+route_0172,harare_minibus_01,"","Mbare Rank to Chitungwiza Hospital Hub",,1501,,04C991,000000
+route_0173,harare_minibus_01,"","Copacabana Rank to Mbare Zata",,1501,,6804C9,000000
+route_0174,harare_minibus_01,"","Mbare Rank to Mereki",,1501,,1D04C9,000000
+route_0175,harare_minibus_01,"","Town Center to L",,1501,,C93304,000000
+route_0176,harare_minibus_01,"","Makoni Hub to Mbudzi Roundabout",,1501,,3E04C9,000000
+route_0177,harare_minibus_01,"","Borrowdale to Fourth Street Rank",,1501,,045CC9,000000
+route_0178,harare_minibus_01,"","Market Square to Budiriro 1&2",,1501,,04B8C9,000000
+route_0179,harare_minibus_01,"","Mbudzi Round About to Makoni Hub",,1501,,04C9C2,000000
+route_0181,harare_minibus_01,"","Market Square to Mbudzi Round About",,1501,,C93C04,000000
+route_0182,harare_minibus_01,"","Charge Office to Hatfield Kilwinning via Braeside",,1501,,04C944,000000
+route_0183,harare_minibus_01,"","Wedza hub Glenora to Market Square",,1501,,5604C9,000000
+route_0184,harare_minibus_01,"","Kuwadzana Extention Hub to Copacabana Rank",,1501,,BDC904,000000
+route_0185,harare_minibus_01,"","Stoneridge Park to Mbare",,1501,,0492C9,000000
+route_0186,harare_minibus_01,"","Inez Terrace to Tafara",,1501,,8204C9,000000
+route_0187,harare_minibus_01,"","Mbuya Nehanda Hub to Malbereign",,1501,,C90405,000000
+route_0188,harare_minibus_01,"","Simon Mazorodze to Mbuya Nehanda Street",,1501,,C90407,000000
+route_0189,harare_minibus_01,"","Budiriro to Albion Hub",,1501,,6604C9,000000
+route_0190,harare_minibus_01,"","Manyame Airport to Flyover",,1501,,C9048A,000000
+route_0191,harare_minibus_01,"","OK Mbare to Mabvuku Gazzebo",,1501,,04B8C9,000000
+route_0192,harare_minibus_01,"","Town Center to St Mary",,1501,,C90445,000000
+route_0193,harare_minibus_01,"","Cranborne to Rezende Hub Street South1",,1501,,C9B704,000000
+route_0194,harare_minibus_01,"","Fourth Street Rank to Epworth Overspill",,1501,,C90492,000000
+route_0195,harare_minibus_01,"","Chinhoyi and Mbuya Nehanda Hub to Whitecliff",,1501,,1404C9,000000
+route_0196,harare_minibus_01,"","Chitungwiza Hospital to Town Centre",,1501,,04C92B,000000
+route_0197,harare_minibus_01,"","Copacabana Rank to Mandara",,1501,,C93B04,000000
+route_0198,harare_minibus_01,"","Mandara Shops Bus Stop to Copacabana Rank",,1501,,C90418,000000
+route_0199,harare_minibus_01,"","Glen Norah to Simon Mazorodze Flyover",,1501,,04C98A,000000
+route_0200,harare_minibus_01,"","Newlands to Fourth Street Rank",,1501,,C90417,000000
+route_0201,harare_minibus_01,"","Inez Terrace to Gazebo",,1501,,045FC9,000000
+route_0202,harare_minibus_01,"","Msasa to Inez Terrace",,1501,,04C96E,000000
+route_0203,harare_minibus_01,"","Avondale Police Station Bus Stop to Copacabana Rank",,1501,,C97104,000000
+route_0204,harare_minibus_01,"","Westgate Round About Bus Stop to Copacabana",,1501,,04C9BE,000000
+route_0205,harare_minibus_01,"","Glen Norah to Mbare",,1501,,C904A3,000000
+route_0206,harare_minibus_01,"","Copacabana Rank to Westgate Round About Bus Stop",,1501,,C98A04,000000
+route_0207,harare_minibus_01,"","Seke to Makoni",,1501,,C90480,000000
+route_0208,harare_minibus_01,"","Mapuranga Hub to Kuwadzana 4 Shops",,1501,,0407C9,000000
+route_0209,harare_minibus_01,"","Makoni to Town Centre, Chitungwiza",,1501,,04C94F,000000
+route_0210,harare_minibus_01,"","Albion Street Hub to Crowbrough Shops",,1501,,C93F04,000000
+route_0211,harare_minibus_01,"","Market Square to Waterfalls",,1501,,C95B04,000000
+route_0212,harare_minibus_01,"","Makomo to Rezende Street South Hub",,1501,,0417C9,000000
+route_0213,harare_minibus_01,"","Damofalls Phase 1 and 2 Hub to George Ruwa Hub",,1501,,6904C9,000000
+route_0214,harare_minibus_01,"","Mabelreign Shops to Copacabana Rank",,1501,,0414C9,000000
+route_0215,harare_minibus_01,"","Town Center to Makoni",,1501,,C904B5,000000
+route_0216,harare_minibus_01,"","Greystone Hub to 4th Street Rank",,1501,,0430C9,000000
+route_0217,harare_minibus_01,"","Manyame Maruva to Glenwood",,1501,,046AC9,000000
+route_0218,harare_minibus_01,"","Fourth Street to Hatcliff Extention",,1501,,C95604,000000
+route_0219,harare_minibus_01,"","Machipisa Highfield to Market Square",,1501,,C94304,000000
+route_0220,harare_minibus_01,"","Kuwadzana Phase 3 to Mbuya Nehanda Street Hub",,1501,,C9045A,000000
+route_0221,harare_minibus_01,"","Arcturus to 4th Street Rank",,1501,,04C96F,000000
+route_0222,harare_minibus_01,"","Budiriro to Simon Mazorodze Flyover",,1501,,04C908,000000
+route_0223,harare_minibus_01,"","Mbudzi Round About to Ushewekunze",,1501,,04C98C,000000
+route_0224,harare_minibus_01,"","Eastlea Hub to Fourth Street Rank",,1501,,04C9BF,000000
+route_0225,harare_minibus_01,"","Westlea to Copacabana Rank",,1501,,C904AB,000000
+route_0226,harare_minibus_01,"","George Ruwa Hub to Fourth Street Rank",,1501,,9B04C9,000000
+route_0227,harare_minibus_01,"","Eastlea Shops Bus Stop to Copacabana Rank",,1501,,4FC904,000000
+route_0228,harare_minibus_01,"","Chikwanha to Unit L",,1501,,C99904,000000
+route_0229,harare_minibus_01,"","Marlborough to Mbuya Nehanda Hub",,1501,,1CC904,000000
+route_0230,harare_minibus_01,"","OK Mbare to Epworth overspill",,1501,,04C91F,000000
+route_0231,harare_minibus_01,"","Zengeza to Mbare Rank",,1501,,8604C9,000000
+route_0232,harare_minibus_01,"","Westgate Red Roofs to Coppacabana Rank",,1501,,C95104,000000
+route_0233,harare_minibus_01,"","Chinhoyi Road and Mbuya Nehanda Hub to Dzivaraswekwa ext",,1501,,04C9AE,000000
+route_0234,harare_minibus_01,"","Rezende Street South Hub to Makomo",,1501,,0A04C9,000000
+route_0235,harare_minibus_01,"","Rezende to Mt Pleasant Pendennis",,1501,,04C95A,000000
+route_0236,harare_minibus_01,"","Copacabana Rank to Glen Norah B",,1501,,9F04C9,000000
+route_0237,harare_minibus_01,"","Southlands to Mbudzi Round About",,1501,,37C409,000000
+route_0238,harare_minibus_01,"","Southlands to Mbare Rank",,1501,,C90492,000000
+route_0239,harare_minibus_01,"","Fourth Street Rank to Epworth Munyuki",,1501,,C9048C,000000
+route_0240,harare_minibus_01,"","Fourth Street Rank to Sunway City",,1501,,C7C904,000000
+route_0241,harare_minibus_01,"","Mbudzi Round About to Zengeza Chitungwiza",,1501,,0FC904,000000
+route_0242,harare_minibus_01,"","Fourth Street Rank to Highlands",,1501,,C9045A,000000
+route_0243,harare_minibus_01,"","Zengeza 5 Pagomba to Charge Office",,1501,,C93504,000000
+route_0244,harare_minibus_01,"","Greencroft Shops to Copacabana Rank",,1501,,5C04C9,000000
+route_0245,harare_minibus_01,"","Nelson Mandela and Chinhoyi Rd Hub to Warren Park D",,1501,,79C904,000000
+route_0246,harare_minibus_01,"","Mbare Rank to Chikwanha",,1501,,C97104,000000
+route_0247,harare_minibus_01,"","Nyabira to Parklane Hub",,1501,,C904A4,000000
+route_0248,harare_minibus_01,"","Charge Office to Makoni",,1501,,2604C9,000000
+route_0249,harare_minibus_01,"","Mbare Hub to Waterfalls Police Station",,1501,,0430C9,000000
+route_0251,harare_minibus_01,"","Southerton to Market Square",,1501,,046AC9,000000
+route_0252,harare_minibus_01,"","Charge Office to Chikwanha",,1501,,0427C9,000000
+route_0253,harare_minibus_01,"","Waterfalls Uplands Shops to Market Square",,1501,,C90432,000000
+route_0254,harare_minibus_01,"","Copacabana Rank to Maximum Support",,1501,,C904C4,000000
+route_0255,harare_minibus_01,"","Mapuranga Hub to Market Square",,1501,,7904C9,000000
+route_0256,harare_minibus_01,"","Fourth Street Rank to Newlands",,1501,,04C993,000000
+route_0257,harare_minibus_01,"","Fourth Street Rank to Chishawasha Hills",,1501,,BB04C9,000000
+route_0258,harare_minibus_01,"","George Ruwa Hub to Damofalls Phase 1 and 2 Hub",,1501,,C98904,000000
+route_0259,harare_minibus_01,"","Kuwadzana 4 Shops to Mapuranga Hub",,1501,,C91204,000000
+route_0260,harare_minibus_01,"","Highlands to Fourth Street Rank",,1501,,C97E04,000000
+route_0261,harare_minibus_01,"","Copacabana Rank to Eastlea Shops",,1501,,04C9B4,000000
+route_0262,harare_minibus_01,"","Copacabana Rank to Mabelreign Shops",,1501,,046CC9,000000
+route_0263,harare_minibus_01,"","Charge Office to Town Centre",,1501,,C9044B,000000
+route_0264,harare_minibus_01,"","Copacabana Rank to Mabvuku",,1501,,04C95B,000000
+route_0265,harare_minibus_01,"","Zengeza Chitungwiza to Mbudzi Round About",,1501,,BBC904,000000
+route_0266,harare_minibus_01,"","Chamboko Rank to Fourth Street Rank",,1501,,69D827,000000
+route_0267,harare_minibus_01,"","Mbuya Nehanda to Marlborough",,1501,,04AEC9,000000
+route_0268,harare_minibus_01,"","Mabvuku Gazzebo to OK Mbare",,1501,,04C9AC,000000
+route_0269,harare_minibus_01,"","Zimre Park Moonchies Place Bus Stop to Terrence Hub",,1501,,044CC9,000000
+route_0270,harare_minibus_01,"","Charge Office to Hatfield Maruta",,1501,,04C909,000000
+route_0271,harare_minibus_01,"","Carrick Creagh to 4th Street Rank",,1501,,C98204,000000
+route_0272,harare_minibus_01,"","Kuwadzana to Mbare Rank",,1501,,C90468,000000
+route_0273,harare_minibus_01,"","Fourth Street Rank to Riverton",,1501,,C99D04,000000
+route_0274,harare_minibus_01,"","Glen View 3 to Mapuranga Hub",,1501,,C91904,000000
+route_0275,harare_minibus_01,"","Malborough Extension to Rezende Rank",,1501,,4304C9,000000
+route_0276,harare_minibus_01,"","Kuwadzana 4 Shops Hub to Copacabana",,1501,,C304C9,000000
+route_0277,harare_minibus_01,"","Glenview 7 to Market Square",,1501,,0448C9,000000
+route_0278,harare_minibus_01,"","Damofalls Phase 3 and 4 to Fourth Street Rank",,1501,,046FC9,000000
+route_0279,harare_minibus_01,"","Copacabana Rank to Warren Park",,1501,,28C904,000000
+route_0280,harare_minibus_01,"","Ashdown Park to Mbuya Nehanda Hub",,1501,,A604C9,000000
+route_0281,harare_minibus_01,"","Fourth Street Rank to Challote Brook",,1501,,C90465,000000
+route_0282,harare_minibus_01,"","Copacabana Rank to Avondale Police Station",,1501,,4FC904,000000
+route_0283,harare_minibus_01,"","Charge Office to Chimbarembare",,1501,,041CC9,000000
+route_0284,harare_minibus_01,"","Charge Office to St Marys",,1501,,92C904,000000
+route_0285,harare_minibus_01,"","Rezende Street South Hub 2 to Overspill",,1501,,047AC9,000000
+route_0286,harare_minibus_01,"","Chinhoyi Street to Simon Mazorodze Flyover",,1501,,04C90C,000000
+route_0287,harare_minibus_01,"","Tafara to 4th Street Rank",,1501,,04C9B6,000000
+route_0288,harare_minibus_01,"","Greencroft Shops to Westgate Shopping Mall",,1501,,C90422,000000
+route_0289,harare_minibus_01,"","Machipisa, Highfield to Southley Park",,1501,,04ACC9,000000
+route_0290,harare_minibus_01,"","Warren Park to Copacabana Rank",,1501,,04C9A8,000000
+route_0291,harare_minibus_01,"","Bax Hub Chitungwiza to Oroman Hub Mbare",,1501,,C004C9,000000
+route_0292,harare_minibus_01,"","Norton Bus Rank to Mbare Rank",,1501,,C93704,000000
+route_0293,harare_minibus_01,"","Mbare Rank to Glen Norah B",,1501,,A0C904,000000
+route_0294,harare_minibus_01,"","Mabvuku Hub to Mbare Hub 2",,1501,,C9045B,000000
+route_0295,harare_minibus_01,"","Machipisa to Dzivarasekwa 3 Hub",,1501,,4B04C9,000000
+route_0296,harare_minibus_01,"","Copacabana Rank to Mabelreign Police Camp",,1501,,042DC9,000000
+route_0297,harare_minibus_01,"","Kamfinsa Shops to Fourth Street Rank",,1501,,0424C9,000000
+route_0298,harare_minibus_01,"","Mbudzi Round About to Southley Park",,1501,,C904A6,000000
+route_0299,harare_minibus_01,"","Mereki to Mbare Rank",,1501,,66C904,000000
+route_0300,harare_minibus_01,"","Epworth Overspill to Ok Mbare",,1501,,04C983,000000
+route_0301,harare_minibus_01,"","Mabvuku to Copacabana Rank",,1501,,2BC904,000000
+route_0302,harare_minibus_01,"","Mt Hampden Shops to Copacabana Rank",,1501,,043FC9,000000
+route_0303,harare_minibus_01,"","Mufakose, Mhishi to Mbare Hub",,1501,,A6C904,000000
+route_0304,harare_minibus_01,"","St Marys to Charge Office",,1501,,84C904,000000
+route_0305,harare_minibus_01,"","Makoni Rank to Flyover Rank",,1501,,C90425,000000
+route_0306,harare_minibus_01,"","Ashdown Park Shops Bus Stop to Copacabana Rank",,1501,,04A6C9,000000
+route_0307,harare_minibus_01,"","Leopold Takawira Hub to Avondale Shops",,1501,,C9044F,000000
+route_0308,harare_minibus_01,"","Budiriro 2 to Copacabana Rank",,1501,,05C904,000000
+route_0309,harare_minibus_01,"","Glenview to Machipisa",,1501,,0CC904,000000
+route_0310,harare_minibus_01,"","Mandara to Fourth Street Rank",,1501,,045DC9,000000
+route_0311,harare_minibus_01,"","Crowborough Shops to Albion Street Hub",,1501,,C96E04,000000
+route_0312,harare_minibus_01,"","Southlands Shops to Market Square",,1501,,04B0C9,000000
+route_0313,harare_minibus_01,"","Copacabana Rank to Norton",,1501,,04C969,000000
+route_0314,harare_minibus_01,"","Mbare Hub to Budiriro 1-2",,1501,,C93604,000000
+route_0315,harare_minibus_01,"","Inez Terrace Hub to Zimre Park Moonchies Place Bus Stop",,1501,,C9042B,000000
+route_0316,harare_minibus_01,"","Mbare Rank to Seke 1 And 2",,1501,,04C907,000000
+route_0317,harare_minibus_01,"","Fourth Street Rank to Solomio",,1501,,047DC9,000000
+route_0318,harare_minibus_01,"","Nelson Mandela Rd and Chinoyi Rd Hub to Domboshava",,1501,,0453C9,000000
+route_0319,harare_minibus_01,"","Copacabana Rank to Machipisa Hub",,1501,,AB04C9,000000
+route_0320,harare_minibus_01,"","Mabvuku Pakamunhu Hub to Angwa Street Hub",,1501,,C90489,000000
+route_0321,harare_minibus_01,"","Mbare Rank to Southleigh Park",,1501,,8204C9,000000
+route_0322,harare_minibus_01,"","Kuwadzana Extension to Machipisa",,1501,,C9C904,000000
+route_0323,harare_minibus_01,"","Machipisa to Dzivarasekwa",,1501,,C99404,000000
+route_0324,harare_minibus_01,"","Fourth Street Rank to Sally Mugabe",,1501,,25C904,000000
+route_0325,harare_minibus_01,"","Machipisa to Mufakose",,1501,,C96704,000000
+route_0326,harare_minibus_01,"","Ruwa Pachuru Hub to Mutangadura",,1501,,44C904,000000
+route_0327,harare_minibus_01,"","Glenorah to Market Square",,1501,,04C975,000000
+route_0328,harare_minibus_01,"","Simon Mazorodze Flyover to Glen View",,1501,,0477C9,000000
+route_0329,harare_minibus_01,"","Copacabana Rank to Hatcliff",,1501,,6D04C9,000000
+route_0330,harare_minibus_01,"","Kuwadzana 4 Shops Hub to Machipisa",,1501,,C904A2,000000
+route_0331,harare_minibus_01,"","OK Mbare to Dombo Stopover",,1501,,04C9A5,000000
+route_0332,harare_minibus_01,"","Albion Hub to Kambuzuma 1-3",,1501,,C9B204,000000
+route_0333,harare_minibus_01,"","Eastview to 4th Street Rank",,1501,,C9AF04,000000
+route_0334,harare_minibus_01,"","Albion Hub to Prospect",,1501,,84C904,000000
+route_0335,harare_minibus_01,"","Copacabana Rank to Budiriro 2",,1501,,C6C904,000000
+route_0336,harare_minibus_01,"","Domboshava to 4th Street Rank",,1501,,042DC9,000000
+route_0337,harare_minibus_01,"","Flyover Rank to Glenwood",,1501,,C96804,000000
+route_0338,harare_minibus_01,"","Solomio Hub to Fourth Street Rank",,1501,,C90438,000000
+route_0339,harare_minibus_01,"","Kambuzuma 3 Shops to Albion Hub",,1501,,5C04C9,000000
+route_0340,harare_minibus_01,"","Market Square to Stone Ridge Chireya",,1501,,C90467,000000
+route_0341,harare_minibus_01,"","Copacabana Rank to Nyabira",,1501,,2E04C9,000000
+route_0342,harare_minibus_01,"","Philadelphia to Fourth Street Rank",,1501,,04C93D,000000
+route_0343,harare_minibus_01,"","Queensdale Shops to Rezende Hub 2",,1501,,C9A004,000000
+route_0344,harare_minibus_01,"","Rezende Hub 2 to Queensdale Shops",,1501,,0421C9,000000
+route_0345,harare_minibus_01,"","Borrowdale Brooke to Fourth Street Rank",,1501,,C8C904,000000
+route_0347,harare_minibus_01,"","Westgate to Machipisa",,1501,,7104C9,000000
+route_0348,harare_minibus_01,"","Fourth Street Rank to George Hub",,1501,,C90424,000000
+route_0349,harare_minibus_01,"","Mbare Hub to Mufakose, Mhishi",,1501,,4D04C9,000000
+route_0350,harare_minibus_01,"","Fourth Street Rank to Arcturus",,1501,,C91C04,000000
+route_0351,harare_minibus_01,"","Ziko to Makoni",,1501,,3CC904,000000
+route_0352,harare_minibus_01,"","Fourth Street Rank to Chisipite Rank",,1501,,04C98A,000000
+route_0353,harare_minibus_01,"","Simon Mazorodze to Machipisa",,1501,,C99004,000000
+route_0354,harare_minibus_01,"","Mabvuku Hub to Damafalls",,1501,,C97F04,000000
+route_0355,harare_minibus_01,"","Gazebo to Inez Terrace",,1501,,1BC904,000000
+route_0356,harare_minibus_01,"","Simon Mazorodze Flyover to Mapuranga",,1501,,C94004,000000
+route_0357,harare_minibus_01,"","Mabelreign Police Camp to Copacabana Rank",,1501,,C90466,000000
+route_0358,harare_minibus_01,"","Fourth Street Rank to Windsor Park Hub",,1501,,C90494,000000
+route_0359,harare_minibus_01,"","Fourth Street Rank to Borrowdale Brooke",,1501,,04C972,000000
+route_0360,harare_minibus_01,"","Kuwadzana 7 Pamagetsi Bus Stop to Mbuya Nehanda Hub",,1501,,C93604,000000
+route_0361,harare_minibus_01,"","Copacabana Rank to Sisonke Shopping Centre Kambuzuma",,1501,,C90498,000000
+route_0362,harare_minibus_01,"","Rezende Rank to University Of Zimbabwe",,1501,,0484C9,000000
+route_0363,harare_minibus_01,"","Machipisa to Makoni",,1501,,049CC9,000000
+route_0364,harare_minibus_01,"","Ruwa to Inez Terrace",,1501,,C90B04,000000
+route_0365,harare_minibus_01,"","Westlea to Mbuya Nehanda",,1501,,C97A04,000000
+route_0366,harare_minibus_01,"","Fourth Street Rank to Greendale Rank",,1501,,04C920,000000
+route_0367,harare_minibus_01,"","Copacabana Rank to Reuben Hub Epworth",,1501,,C9046A,000000
+route_0368,harare_minibus_01,"","Copacabana to Kuwadzana 4 Shops Hub",,1501,,044EC9,000000
+route_0369,harare_minibus_01,"","Mapuranga Hub to St Marys",,1501,,9704C9,000000
+route_0370,harare_minibus_01,"","Mbare Rank to Makoni via Hopley",,1501,,83C904,000000
+route_0371,harare_minibus_01,"","Warren Park D to Westgate Shopping Mall",,1501,,92C904,000000
+route_0372,harare_minibus_01,"","Seke Chirunga to Charge Office",,1501,,8904C9,000000
+route_0373,harare_minibus_01,"","Mbare Rank to Makoni via Hatfield",,1501,,B204C9,000000
+route_0374,harare_minibus_01,"","Fourth Street Rank to Ruwa",,1501,,C99B04,000000
+route_0375,harare_minibus_01,"","Copacabana Rank to Dzivarasekwa 4",,1501,,04C7C9,000000
+route_0376,harare_minibus_01,"","Fourth Street to George Ruwa Hub",,1501,,4604C9,000000
+route_0377,harare_minibus_01,"","Epworth - Dombo Stop Over to 4th Street Rank",,1501,,04C9B6,000000
+route_0378,harare_minibus_01,"","Fourth Street Rank to Mandara",,1501,,7404C9,000000
+route_0379,harare_minibus_01,"","Mbuya Nehanda to Kuwadzana Extension",,1501,,C95C04,000000
+route_0380,harare_minibus_01,"","Copacabana Rank to Mt Hampden Shops",,1501,,3CC904,000000
+route_0381,harare_minibus_01,"","Tatenda Shopping Centre Warren Park to Mbare Musika",,1501,,36C904,000000
+route_0382,harare_minibus_01,"","Braeside to Fourth Street Rank",,1501,,C95204,000000
+route_0383,harare_minibus_01,"","Fourth Street Rank to Glenlorne",,1501,,5804C9,000000
+route_0384,harare_minibus_01,"","Flyover to Manyame Airport",,1501,,A704C9,000000
+route_0385,harare_minibus_01,"","Cranborne to Fourth Street Rank",,1501,,C99004,000000
+route_0386,harare_minibus_01,"","Chinhoyi Street to Mapuranga Hub",,1501,,0443C9,000000
+route_0387,harare_minibus_01,"","Domboramwari to Rezende Street South Hub",,1501,,C93404,000000
+route_0388,harare_minibus_01,"","Tafara to Inez Terrace",,1501,,96C904,000000
+route_0389,harare_minibus_01,"","Albion Hub to Budiriro",,1501,,C804C9,000000
+route_0390,harare_minibus_01,"","Mbare Musika to Copacabana Rank",,1501,,C90446,000000
+route_0391,harare_minibus_01,"","Hatcliffe Extension Makandiwa Bus Stop to 4th Street Rank",,1501,,93C904,000000
+route_0392,harare_minibus_01,"","Charge Office to Hatfield Twentydales",,1501,,0467C9,000000
+route_0393,harare_minibus_01,"","Dombo Stopover to OK Mbare",,1501,,C404C9,000000
+route_0394,harare_minibus_01,"","Bloomingdale to Jason Moyo and Mbuya Nehanda Street",,1501,,89C904,000000
+route_0395,harare_minibus_01,"","Budiriro 1-2 to Mbare Hub",,1501,,4E04C9,000000
+route_0396,harare_minibus_01,"","Market Square to Southley Park",,1501,,04A6C9,000000
+route_0397,harare_minibus_01,"","St Marys to Town Center",,1501,,04C958,000000
+route_0398,harare_minibus_01,"","Makoni Rank to Charge Office",,1501,,C904A2,000000
+route_0399,harare_minibus_01,"","Charge Office to Nyatsime",,1501,,6B04C9,000000
+route_0400,harare_minibus_01,"","Fourth Street Rank to Chijaka Rank",,1501,,0479C9,000000
+route_0401,harare_minibus_01,"","Glen View to Simon Mazorodze Flyover",,1501,,04C98D,000000
+route_0402,harare_minibus_01,"","Machipisa to Glen View",,1501,,50C904,000000
+route_0403,harare_minibus_01,"","Chisipite Shops Bus Stop to Copacabana Rank",,1501,,A804C9,000000
+route_0404,harare_minibus_01,"","Stone Ridge Chireya to Market Square",,1501,,C90404,000000
+route_0405,harare_minibus_01,"","Makoni Hub to Mbare Rank",,1501,,C9AF04,000000
+route_0406,harare_minibus_01,"","Machipisa to Simon Mazorodze Flyover",,1501,,38C904,000000
+route_0407,harare_minibus_01,"","Mt Pleasant Pendennis to Rezende Rank",,1501,,C9BF04,000000
+route_0408,harare_minibus_01,"","Mbare Rank to Zengeza",,1501,,047BC9,000000
+route_0409,harare_minibus_01,"","Charge Office to Braeside",,1501,,2C04C9,000000
+route_0410,harare_minibus_01,"","Msasa Park to Fourth Street Rank",,1501,,C90477,000000
+route_0411,harare_minibus_01,"","Machipisa to Mbare",,1501,,04C90C,000000
+route_0412,harare_minibus_01,"","Rezende Hub to Simon Mazorodze Flyover",,1501,,041AC9,000000
+route_0413,harare_minibus_01,"","Parklane Hub to Goodhope",,1501,,C98C04,000000
+route_0414,harare_minibus_01,"","Domboshava to Copacabana Rank",,1501,,04C974,000000
+route_0415,harare_minibus_01,"","Fourth Street Rank to Tafara",,1501,,9304C9,000000
+route_0416,harare_minibus_01,"","Copacabana Rank to Greencroft Shops",,1501,,C9042A,000000
+route_0417,harare_minibus_01,"","Copacabana Rank to Mbare Rank",,1501,,041DC9,000000
+route_0418,harare_minibus_01,"","Market Square to Waterfalls Uplands",,1501,,C97204,000000
+route_0419,harare_minibus_01,"","Chitungwiza Hospital Hub to Mbare",,1501,,C90488,000000
+route_0420,harare_minibus_01,"","Machipisa to Budiriro 1 and 2",,1501,,7704C9,000000
+route_0421,harare_minibus_01,"","Seke to Charge Office",,1501,,95C904,000000
+route_0422,harare_minibus_01,"","Avondale Shops to Leopold Takawira Hub",,1501,,C1C904,000000
+route_0423,harare_minibus_01,"","Fourth Street Rank to Mabvuku Pakamunhu 1",,1501,,04C9BF,000000
+route_0424,harare_minibus_01,"","ZRP Budiriro to Market Square",,1501,,04C91E,000000
+route_0425,harare_minibus_01,"","Mufakose to Machipisa",,1501,,1BC904,000000
+route_0426,harare_minibus_01,"","Rezende Street South Hub 2 to Cranborne",,1501,,C80448,000000
+route_0427,harare_minibus_01,"","Southlea Park to Machipisa Highfield",,1501,,C9B204,000000
+route_0428,harare_minibus_01,"","Mbare Rank to Waterfalls Mainway Meadows",,1501,,04C94F,000000
+route_0429,harare_minibus_01,"","Morgan Zintec College to Charge Office",,1501,,04C9BE,000000
+route_0430,harare_minibus_01,"","Makoni to Charge Office",,1501,,3304C9,000000
+route_0431,harare_minibus_01,"","Copacabana Rank to Chisipite Shops Bus Stop",,1501,,0458C9,000000
+route_0432,harare_minibus_01,"","Mbuya Nehanda to Warren Park 1",,1501,,0A04C9,000000
+route_0434,harare_minibus_01,"","Mabvuku Pakamunhu to Fourth Street Rank",,1501,,4EC904,000000
+route_0435,harare_minibus_01,"","Chijaka Rank to 4th Street Rank",,1501,,04C96B,000000
+route_0436,harare_minibus_01,"","Unit L to Chikwanha",,1501,,04C9BD,000000
+route_0437,harare_minibus_01,"","Copacabana Rank to Kamfinsa",,1501,,56C904,000000
+route_0438,harare_minibus_01,"","Fourth Street Rank to Rhodesville",,1501,,4DC904,000000
+route_0439,harare_minibus_01,"","Kuwadzana Extension to Mbuya Nehanda Hub",,1501,,0434C9,000000
+route_0440,harare_minibus_01,"","Chibamu to Ruwa Pachuru Hub",,1501,,BEC904,000000
+route_0441,harare_minibus_01,"","Dzivarasekwa to Machipisa",,1501,,16C904,000000
+route_0442,harare_minibus_01,"","Mbudzi Round About to Machipisa",,1501,,04C90C,000000
+route_0443,harare_minibus_01,"","Fourth Street to Hillside",,1501,,04C959,000000
+route_0444,harare_minibus_01,"","Machipisa to Kuwadzana Extension",,1501,,C904A1,000000
+route_0445,harare_minibus_01,"","Nyatsime to Charge Office",,1501,,5904C9,000000
+route_0446,harare_minibus_01,"","Rezende Street South Hub to Domboramwari",,1501,,046BC9,000000
+route_0447,harare_minibus_01,"","Sunway City to Fourth Street Rank",,1501,,C98E04,000000
+route_0448,harare_minibus_01,"","Makoni to Chikwanha Hub",,1501,,04C987,000000
+route_0449,harare_minibus_01,"","Mbare Hub 2 to Mabvuku Hub",,1501,,6504C9,000000
+route_0450,harare_minibus_01,"","University of Zimbabwe Rank to Ruzende Rank",,1501,,3304C9,000000
+route_0451,harare_minibus_01,"","Waterfalls Police Station to Oroman Hub Mbare",,1501,,8AC904,000000
+route_0452,harare_minibus_01,"","Fourth Street Rank to Carrick Creagh",,1501,,C9040E,000000
+route_0453,harare_minibus_01,"","Chikwanha to Charge Office",,1501,,C9041B,000000
+route_0454,harare_minibus_01,"","Market Square to Sparespain",,1501,,1CC904,000000
+route_0455,harare_minibus_01,"","Fourth Street Rank to Chamboko Rankr",,1501,,B1C904,000000
+route_0456,harare_minibus_01,"","Reuben Hub Epworth to Copacabana Rank",,1501,,04C98B,000000
+route_0457,harare_minibus_01,"","Machipisa to Mbudzi Roundabout",,1501,,C904A9,000000
+route_0458,harare_minibus_01,"","Westgate to Copacabbana",,1501,,1CC904,000000
+route_0459,harare_minibus_01,"","Malbereign Hub to Mbuya Nehanda Hub",,1501,,04A2C9,000000
+route_0460,harare_minibus_01,"","Copacabana Rank to Westgate Shopping Centre",,1501,,0416C9,000000
+route_0461,harare_minibus_01,"","Ushewekunze to Mbudzi Round About",,1501,,BBC904,000000
+route_0462,harare_minibus_01,"","Copacabana Rank to Oroman Mbare Hub",,1501,,C0C904,000000
+route_0463,harare_minibus_01,"","Sparespain to Market Square",,1501,,C93204,000000
+route_0464,harare_minibus_01,"","Mufakose to Mapuranga",,1501,,C94304,000000
+route_0465,harare_minibus_01,"","Mainway Meadows, Waterfalls to Charge Office",,1501,,B404C9,000000
+route_0466,harare_minibus_01,"","Rezende Rank to Malborough Extension",,1501,,04BDC9,000000
+route_0467,harare_minibus_01,"","Windsor Park Hub to Forth Street Rank",,1501,,04C96C,000000
+route_0468,harare_minibus_01,"","Whitecliff to Chinhoyi and Mbuya Nehanda",,1501,,C5C904,000000
+route_0469,harare_minibus_01,"","Budiriro 1 and 2 to Machipisa",,1501,,C99E04,000000
+route_0470,harare_minibus_01,"","Chinhoyi Street to Mufakose",,1501,,76C904,000000
+route_0471,harare_minibus_01,"","Market Square to Machipisa, Highfield",,1501,,1504C9,000000
+route_0472,harare_minibus_01,"","Market Square to Glenview 7",,1501,,C90457,000000
+route_0473,harare_minibus_01,"","Mbare Rank to Southlands",,1501,,C93604,000000
+route_0474,harare_minibus_01,"","Market Square to Glen Norah",,1501,,5004C9,000000
+route_0475,harare_minibus_01,"","Fourth Street Rank to Eastview",,1501,,04C93D,000000
+route_0476,harare_minibus_01,"","Mbare Rank to Kuwadzana 4 Shops Hub",,1501,,2EC904,000000
+route_0477,harare_minibus_01,"","Fourth Street Rank to Braeside",,1501,,C9A904,000000
+route_0478,harare_minibus_01,"","Chisipite Rank to Fourth Street Rank",,1501,,047DC9,000000
+route_0479,harare_minibus_01,"","Glen Norah to Market Square",,1501,,C90488,000000
+route_0480,harare_minibus_01,"","Fourth Street Rank to Kamfinsa Rank",,1501,,C004C9,000000
+route_0481,harare_minibus_01,"","Hatfield Maruta to Charge office",,1501,,C94D04,000000
+route_0482,harare_minibus_01,"","Mapuranga to Makoni",,1501,,8BC904,000000
+route_0484,harare_minibus_01,"","Epworth Overspill to Fourth Street Rank",,1501,,04C978,000000
+route_0485,harare_minibus_01,"","Seke 1 And 2 to Mbare Rank",,1501,,8A04C9,000000
+route_0486,harare_minibus_01,"","Dzivarasekwa to Chinhoyi Road and Mbuyane Handa Nehanda",,1501,,04C9A9,000000
+route_0487,harare_minibus_01,"","Copacabana Rank to Domboshava",,1501,,041DC9,000000
+route_0488,harare_minibus_01,"","Overspill to Rezende Street South Hub 2",,1501,,C95B04,000000
+route_0489,harare_minibus_01,"","Copacabana Rank to Ashdown Park",,1501,,A404C9,000000
+route_0490,harare_minibus_01,"","Maximum Support to Copacabana Rank",,1501,,18C904,000000
+route_0491,harare_minibus_01,"","Gorge Hub Ruwa to 4th Street Rank",,1501,,C90478,000000

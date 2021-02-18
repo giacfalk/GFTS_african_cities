@@ -1,0 +1,6 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+route_0180,city_shuttle_02,"","Fourth Street Rank to Coppacabana",,1501,,0478C9,000000
+route_0250,city_shuttle_02,"","Fourth Street Rank to Market Square",,1501,,04C99A,000000
+route_0346,city_shuttle_02,"","Coppacabana to Fourth Street Rank",,1501,,047DC9,000000
+route_0433,city_shuttle_02,"","Market Square to Fourth Street Rank",,1501,,04C909,000000
+route_0483,city_shuttle_02,"","Leopold Takawira Street Hub to Parirenyatwa",,1501,,04BDC9,000000

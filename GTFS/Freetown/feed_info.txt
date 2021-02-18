@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+"WhereIsMyTransport","https://www.whereismytransport.com",en,20170920,20201231,1

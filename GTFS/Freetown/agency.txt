@@ -1,0 +1,5 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+Freetown_poda_poda_01,"Freetown Poda-Poda",http://www.whereismytransport.com,Africa/Freetown,en,,,
+Freetown_SLRTC_03,"Sierra Leone Road Transport Corporation",http://www.whereismytransport.com,Africa/Freetown,en,,,
+Freetown_Tagrin_Ferry_01,"Tagrin Ferry",http://www.whereismytransport.com,Africa/Freetown,en,,,
+Freetown_Taxi_Cab_04,"Freetown Taxi Cab",http://www.whereismytransport.com,Africa/Freetown,en,,,

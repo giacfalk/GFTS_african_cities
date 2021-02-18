@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_phone,agency_lang
+2,Anbessa City Bus Service Enterprise,http://www.anbessabus.et,Africa/Addis_Ababa                                                                                                                                                                                                                                             ,+25110132984,am
